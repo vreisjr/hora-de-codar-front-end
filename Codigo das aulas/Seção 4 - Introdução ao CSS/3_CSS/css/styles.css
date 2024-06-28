@@ -21,7 +21,7 @@ h3 {
 /* ID */
 #exclusive-title {
     background-color: purple;
-    color: yellow;
+    color: black;
     padding: 10px;
 }
 
@@ -50,4 +50,45 @@ h2 {
 
 .hex-2 {
     color: #17ad32;
+}
+
+/* Aprofundando em hex */
+.simple-hex {
+    color: #333;
+}
+
+.simple-hex-2 {
+    color: #a5f;
+}
+
+.rgb {
+    color: rgb(255, 0, 0)
+}
+
+.mixed-rgb {
+    color: rgb(26, 130, 97);
+}
+
+.rgba {
+    color: rgba(255, 0, 0, 0.5);
+}
+
+.hsl {
+    color: hsl(100, 20%, 50%);
+}
+
+.hsl-2 {
+    color: hsl(20, 56%, 40%);
+}
+
+/* background */
+
+.background {
+    background-color: #000;
+    color: yellow;
+}
+
+.background-2 {
+    background-color: rgb(200, 20, 40);
+    color: #55a398;
 }
