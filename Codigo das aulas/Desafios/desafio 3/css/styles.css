@@ -1,0 +1,14 @@
+.box-model{
+    background-color: red;
+    width: 200px;
+    height: 210px;
+    padding: 7px 5px;
+    border: 15px solid black;
+    border-radius: 5px;
+    margin: 6px;
+    outline: 15px solid gray;
+}
+
+.conteudo-da-box{
+    background-color: aqua;
+}
