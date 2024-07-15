@@ -257,3 +257,42 @@ h2 {
     width: 200px;
     height: 400px;
 }
+
+/* Alinhamento de texto */
+.text-aligned-right{
+    text-align: right;
+}
+
+.text-aligned-center {
+    text-align: center;
+}
+
+.conteiner-center{
+    text-align: center;
+    width: 300px;
+    border: 1px solid red;
+}
+
+/* text decoration */
+
+.underline{
+    text-decoration: underline;
+}
+
+.line-trough{
+    text-decoration: line-through;
+}
+
+.remove-underline{
+    text-decoration: none;
+    color: red;
+}
+
+/* Text transform */
+.upper{
+    text-transform: uppercase;
+}
+
+.lower{
+    text-transform: lowercase;
+}
